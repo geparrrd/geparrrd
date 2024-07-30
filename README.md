@@ -1,4 +1,4 @@
-## Привет! Я - Data Scientist с нотками Python-разработки
+Привет! Я - Data Scientist с нотками Python-разработки
 
 
 <!--
