@@ -3,6 +3,9 @@
     Привет! Я Василий
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <a href="www.linkedin.com/in/василий-григорьев-0466b6320">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/geparrrrd">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=TELEGRAM&logoColor=white" alt="Telegram"/>
   </a>
